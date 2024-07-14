@@ -1,2 +1,2 @@
 # Projetos-Figma
-Estou iniciando na área de Ux Design
+Estou aprendendo mais sobre Ux Design
